@@ -1,0 +1,14 @@
+layout_spectrum: 0.9967821729369462
+typography_spectrum: 0.06554525555111468
+color:
+  brandStrength: 0.8973142139147967
+  lightness: 0.48756965855136514
+  saturation: 0.027346523944288492
+  rhythmicContrast: 0.14196654153056443
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Empty Space
